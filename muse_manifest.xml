@@ -1,0 +1,868 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zodiacsgaming.com" resolutions="1x" timestamp="1677201115957">
+  <folder name="css">
+    <file name="site_global.css" crc="189732736"/>
+    <file name="master_a-master.css" crc="98644507" ref="news:contacts:index:community:casual-player-option:information"/>
+    <file name="nomq_preview_master_a-master.css" crc="3995943229" ref="news:contacts:index:community:casual-player-option:information"/>
+    <file name="news.css" crc="4017884570" ref="news"/>
+    <file name="nomq_news.css" crc="3924697747" ref="news"/>
+    <file name="contacts.css" crc="4056478017" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="323838962" ref="contacts"/>
+    <file name="index.css" crc="3924700743" ref="index"/>
+    <file name="nomq_index.css" crc="536671278" ref="index"/>
+    <file name="community.css" crc="302641242" ref="community"/>
+    <file name="nomq_community.css" crc="197867200" ref="community"/>
+    <file name="casual-player-option.css" crc="180164544" ref="casual-player-option"/>
+    <file name="nomq_casual-player-option.css" crc="347318753" ref="casual-player-option"/>
+    <file name="information.css" crc="4196080376" ref="information"/>
+    <file name="nomq_information.css" crc="3861701273" ref="information"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="museutils.js" crc="3939489907" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="whatinput.js" crc="86476730" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="webpro.js" crc="3856315280" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="require.js" crc="4177726516" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="form_check.php" crc="4108222811" ref="contacts"/>
+    <file name="form_throttle.php" crc="503802655" ref="contacts"/>
+    <file name="form_process.php" crc="260214869" ref="contacts"/>
+    <file name="form-u3338.php" crc="4274330268" ref="contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="middle zodiacs gaming.png" crc="4294255016" ref="index:information">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="background.png" crc="3983648516" ref="index:community:casual-player-option">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo png.png" crc="4174817403" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player 1.png" crc="33729528" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player 2.png" crc="46650818" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player 371.png" crc="67820774" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player number 241.png" crc="275214016" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="join now.png" crc="386181580" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="information bigger-u48199.png" crc="4265526446" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="information bigger-u48199-r.png" crc="531512115" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="news bigger-u48992.png" crc="80452982" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="news bigger-u48992-r.png" crc="429365470" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="community bigger-u50834.png" crc="30595760" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="community bigger-u50834-r.png" crc="3778375564" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="contact bigger-u52368.png" crc="27824394" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="contact bigger-u52368-r.png" crc="137487439" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg esports-u2594.png" crc="3795077489" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg esports-u2594-r.png" crc="3927559258" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg entertainement-u2592.png" crc="4087836021" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg entertainement-u2592-r.png" crc="169480968" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg gaming-u2590.png" crc="3785583256" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg gaming-u2590-r.png" crc="3792282225" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg shop-u2593.png" crc="354149840" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="zg shop-u2593-r.png" crc="453801996" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="community arena-u2591.png" crc="337394250" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="community arena-u2591-r.png" crc="3974045776" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="join now-u21277-fr.png" crc="277649511" ref="index"/>
+    <file name="join now-u21277-fr2.png" crc="229762111" ref="index"/>
+    <file name="background-u1714-fr.png" crc="3859923111" ref="index"/>
+    <file name="logo png-u17959-fr.png" crc="3877389940" ref="index"/>
+    <file name="player 1-u17901-fr.png" crc="492990568" ref="index"/>
+    <file name="player 371-u17975-fr.png" crc="54882555" ref="index"/>
+    <file name="player number 241-u17991-fr.png" crc="3994440157" ref="index"/>
+    <file name="join now-u21277-fr3.png" crc="403515592" ref="index"/>
+    <file name="background-u1714-fr2.png" crc="418850882" ref="index"/>
+    <file name="player 1-u17901-fr2.png" crc="297578112" ref="index"/>
+    <file name="player 371-u17975-fr2.png" crc="4123003404" ref="index"/>
+    <file name="player number 241-u17991-fr2.png" crc="3976452808" ref="index"/>
+    <file name="new background design.png" crc="137532691" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo zg.png" crc="238920204" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home.png" crc="321807988" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-u38379-r-fr.png" crc="4154183618" ref="index"/>
+    <file name="u38380.png" crc="4043611702" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="u38380-a.png" crc="436396363" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="information.png" crc="4119717218" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="information-u38475-r-fr.png" crc="3845222964" ref="index"/>
+    <file name="u38477.png" crc="4043611702" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="u38477-a.png" crc="436396363" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="news.png" crc="525511293" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news-u38566-r-fr.png" crc="4155647473" ref="index"/>
+    <file name="u38567.png" crc="4043611702" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="u38567-a.png" crc="436396363" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="community.png" crc="124955904" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="community-u38657-r-fr.png" crc="4083639603" ref="index"/>
+    <file name="u38660.png" crc="4043611702" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="u38660-a.png" crc="436396363" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="contact.png" crc="509211305" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-u36858-r-fr.png" crc="4166910183" ref="index"/>
+    <file name="u36859.png" crc="4043611702" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="u36859-a.png" crc="436396363" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="hamburger_icon_02.png" crc="4032418545" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburger_icon_01.png" crc="4011645077" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn_close.png" crc="325800187" ref="index:information:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background-u1714-fr3.png" crc="4023171704" ref="index"/>
+    <file name="logo png-u17959-fr2.png" crc="474818560" ref="index"/>
+    <file name="player 1-u17901-fr3.png" crc="472350835" ref="index"/>
+    <file name="player 2-u17925-fr.png" crc="438622986" ref="index"/>
+    <file name="player 371-u17975-fr3.png" crc="260142332" ref="index"/>
+    <file name="player number 241-u17991-fr3.png" crc="50642838" ref="index"/>
+    <file name="join now-u21277-fr4.png" crc="61314391" ref="index"/>
+    <file name="logo png-u17959-fr3.png" crc="178977110" ref="index"/>
+    <file name="player 1-u17901-fr4.png" crc="4281721546" ref="index"/>
+    <file name="player 2-u17925-fr2.png" crc="3817699491" ref="index"/>
+    <file name="player 371-u17975-fr4.png" crc="3796154160" ref="index"/>
+    <file name="player number 241-u17991-fr4.png" crc="3777004842" ref="index"/>
+    <file name="logo png-u17959-fr4.png" crc="3890175969" ref="index"/>
+    <file name="player 1-u17901-fr5.png" crc="112259890" ref="index"/>
+    <file name="player 2-u17925-fr3.png" crc="4034605020" ref="index"/>
+    <file name="player number 241-u17991-fr5.png" crc="4021704691" ref="index"/>
+    <file name="join now-u21277-fr5.png" crc="121372737" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:information:news:community:contacts:casual-player-option"/>
+    <file name="background.jpg" crc="3998577238" ref="information:news:contacts">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="video.jpg" crc="48800110" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="video_play_btn_01.png" crc="4195078118" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="video_play_btn_02.png" crc="4233268555" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="btn_close-u2448-r-fr.png" crc="4292248797" ref="information:news"/>
+    <file name="photo_01s.jpg" crc="4254725772" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_01s-u2527-r-fr.png" crc="8977770" ref="information"/>
+    <file name="photo_02s.jpg" crc="3883842303" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_02s-u2569-r-fr.png" crc="4259661855" ref="information"/>
+    <file name="photo_03s.jpg" crc="4043969148" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_03s-u2575-r-fr.png" crc="3887158858" ref="information"/>
+    <file name="photo_04s.jpg" crc="140419907" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_04s-u2581-r-fr.png" crc="57998312" ref="information"/>
+    <file name="photo_05s.jpg" crc="24734809" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_05s-u2662-r-fr.png" crc="3976658066" ref="information"/>
+    <file name="photo_06s.jpg" crc="155990535" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_06s-u2668-r-fr.png" crc="3953958878" ref="information"/>
+    <file name="photo_07s.jpg" crc="491298718" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_07s-u2674-r-fr.png" crc="6482188" ref="information"/>
+    <file name="photo_08s.jpg" crc="381894164" ref="information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_08s-u2680-r-fr.png" crc="3857961116" ref="information"/>
+    <file name="photo_01b.jpg" crc="3894795165" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_02b.jpg" crc="307933343" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_03b.jpg" crc="381092297" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_04b.jpg" crc="326816877" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_05b.jpg" crc="3970728951" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_06b.jpg" crc="4040051098" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_07b.jpg" crc="4045459435" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_08b.jpg" crc="4003454090" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="photo_01s-u2527-fr.jpg" crc="207372129" ref="information"/>
+    <file name="photo_01s-u2527-r-fr2.png" crc="371541317" ref="information"/>
+    <file name="photo_02s-u2569-fr.jpg" crc="4245140049" ref="information"/>
+    <file name="photo_02s-u2569-r-fr2.png" crc="166374119" ref="information"/>
+    <file name="photo_03s-u2575-fr.jpg" crc="3884847821" ref="information"/>
+    <file name="photo_03s-u2575-r-fr2.png" crc="3762818920" ref="information"/>
+    <file name="photo_04s-u2581-fr.jpg" crc="3893007919" ref="information"/>
+    <file name="photo_04s-u2581-r-fr2.png" crc="3763110273" ref="information"/>
+    <file name="photo_05s-u2662-fr.jpg" crc="4038699673" ref="information"/>
+    <file name="photo_05s-u2662-r-fr2.png" crc="316326440" ref="information"/>
+    <file name="photo_06s-u2668-fr.jpg" crc="4140032237" ref="information"/>
+    <file name="photo_06s-u2668-r-fr2.png" crc="4074856837" ref="information"/>
+    <file name="photo_07s-u2674-fr.jpg" crc="507556650" ref="information"/>
+    <file name="photo_07s-u2674-r-fr2.png" crc="280335067" ref="information"/>
+    <file name="photo_08s-u2680-fr.jpg" crc="142666634" ref="information"/>
+    <file name="photo_08s-u2680-r-fr2.png" crc="325416459" ref="information"/>
+    <file name="video-u2455-fr.jpg" crc="221884461" ref="information"/>
+    <file name="photo_01b-u2525-fr.jpg" crc="219196943" ref="information"/>
+    <file name="photo_02b-u2572-fr.jpg" crc="3805016887" ref="information"/>
+    <file name="photo_03b-u2578-fr.jpg" crc="142306483" ref="information"/>
+    <file name="photo_04b-u2584-fr.jpg" crc="143623613" ref="information"/>
+    <file name="photo_05b-u2665-fr.jpg" crc="286532021" ref="information"/>
+    <file name="photo_06b-u2671-fr.jpg" crc="158003740" ref="information"/>
+    <file name="photo_07b-u2677-fr.jpg" crc="147703750" ref="information"/>
+    <file name="photo_08b-u2683-fr.jpg" crc="3839448490" ref="information"/>
+    <file name="video-u2455-fr2.jpg" crc="4252274542" ref="information"/>
+    <file name="photo_01s-u2527-fr2.jpg" crc="4223191705" ref="information"/>
+    <file name="photo_01s-u2527-r-fr3.png" crc="3872590241" ref="information"/>
+    <file name="photo_02s-u2569-fr2.jpg" crc="3888402781" ref="information"/>
+    <file name="photo_02s-u2569-r-fr3.png" crc="531740155" ref="information"/>
+    <file name="photo_03s-u2575-fr2.jpg" crc="4184075148" ref="information"/>
+    <file name="photo_03s-u2575-r-fr3.png" crc="4144847461" ref="information"/>
+    <file name="photo_04s-u2581-fr2.jpg" crc="3814277931" ref="information"/>
+    <file name="photo_04s-u2581-r-fr3.png" crc="398266185" ref="information"/>
+    <file name="photo_05s-u2662-fr2.jpg" crc="430350496" ref="information"/>
+    <file name="photo_05s-u2662-r-fr3.png" crc="317606007" ref="information"/>
+    <file name="photo_06s-u2668-fr2.jpg" crc="297548435" ref="information"/>
+    <file name="photo_06s-u2668-r-fr3.png" crc="67537089" ref="information"/>
+    <file name="photo_07s-u2674-fr2.jpg" crc="119772573" ref="information"/>
+    <file name="photo_07s-u2674-r-fr3.png" crc="3789939335" ref="information"/>
+    <file name="photo_08s-u2680-fr2.jpg" crc="3986032210" ref="information"/>
+    <file name="photo_08s-u2680-r-fr3.png" crc="4092384358" ref="information"/>
+    <file name="photo_01b-u2525-fr2.jpg" crc="528549669" ref="information"/>
+    <file name="photo_02b-u2572-fr2.jpg" crc="4092848512" ref="information"/>
+    <file name="photo_03b-u2578-fr2.jpg" crc="400008443" ref="information"/>
+    <file name="photo_04b-u2584-fr2.jpg" crc="108826616" ref="information"/>
+    <file name="photo_05b-u2665-fr2.jpg" crc="430776238" ref="information"/>
+    <file name="photo_06b-u2671-fr2.jpg" crc="85870034" ref="information"/>
+    <file name="photo_07b-u2677-fr2.jpg" crc="234480766" ref="information"/>
+    <file name="photo_08b-u2683-fr2.jpg" crc="290877273" ref="information"/>
+    <file name="video-u2455-fr3.jpg" crc="417182317" ref="information"/>
+    <file name="photo_01s-u2527-fr3.jpg" crc="4015906583" ref="information"/>
+    <file name="photo_01s-u2527-r-fr4.png" crc="51337655" ref="information"/>
+    <file name="photo_02s-u2569-fr3.jpg" crc="4205529564" ref="information"/>
+    <file name="photo_02s-u2569-r-fr4.png" crc="4012113103" ref="information"/>
+    <file name="photo_03s-u2575-fr3.jpg" crc="15144446" ref="information"/>
+    <file name="photo_03s-u2575-r-fr4.png" crc="474864944" ref="information"/>
+    <file name="photo_04s-u2581-fr3.jpg" crc="394275587" ref="information"/>
+    <file name="photo_04s-u2581-r-fr4.png" crc="485293641" ref="information"/>
+    <file name="photo_05s-u2662-fr3.jpg" crc="113902559" ref="information"/>
+    <file name="photo_05s-u2662-r-fr4.png" crc="60766752" ref="information"/>
+    <file name="photo_06s-u2668-fr3.jpg" crc="4280849554" ref="information"/>
+    <file name="photo_06s-u2668-r-fr4.png" crc="4081773531" ref="information"/>
+    <file name="photo_07s-u2674-fr3.jpg" crc="172580729" ref="information"/>
+    <file name="photo_07s-u2674-r-fr4.png" crc="3933664272" ref="information"/>
+    <file name="photo_08s-u2680-fr3.jpg" crc="4245482545" ref="information"/>
+    <file name="photo_08s-u2680-r-fr4.png" crc="307449500" ref="information"/>
+    <file name="photo_01b-u2525-fr3.jpg" crc="4060478911" ref="information"/>
+    <file name="photo_02b-u2572-fr3.jpg" crc="235540426" ref="information"/>
+    <file name="photo_03b-u2578-fr3.jpg" crc="4230739901" ref="information"/>
+    <file name="photo_04b-u2584-fr3.jpg" crc="3906461570" ref="information"/>
+    <file name="photo_05b-u2665-fr3.jpg" crc="3975765945" ref="information"/>
+    <file name="photo_06b-u2671-fr3.jpg" crc="3772914937" ref="information"/>
+    <file name="photo_07b-u2677-fr3.jpg" crc="127888308" ref="information"/>
+    <file name="photo_08b-u2683-fr3.jpg" crc="3827691316" ref="information"/>
+    <file name="fighter1_profile.jpg" crc="3921372726" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="sc_fb-u2836.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u2850.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u2859.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u2881.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r.png" crc="4264149775" ref="news"/>
+    <file name="fighter1_profile_photo01s.jpg" crc="16033158" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo01s-u2894-r-fr.png" crc="235143482" ref="news"/>
+    <file name="fighter1_profile_photo02s.jpg" crc="3760027423" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo02s-u2895-r-fr.png" crc="298306334" ref="news"/>
+    <file name="fighter1_profile_photo03s.jpg" crc="4167631039" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo03s-u2899-r-fr.png" crc="4076882969" ref="news"/>
+    <file name="fighter1_profile_photo04s.jpg" crc="3939869082" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo04s-u2901-r-fr.png" crc="48058948" ref="news"/>
+    <file name="fighter1_profile_photo01b.jpg" crc="3874053405" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo02b.jpg" crc="4167935040" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo03b.jpg" crc="4083615847" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter1_profile_photo04b.jpg" crc="60893879" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="sc_fb-u3130.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u3133.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u3136.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u3139.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r.png" crc="4264149775" ref="news"/>
+    <file name="fighter2_profile.jpg" crc="494851062" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo01s.jpg" crc="3835734840" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo01s-u3149-r-fr.png" crc="4128474947" ref="news"/>
+    <file name="fighter2_profile_photo02s.jpg" crc="399136351" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo02s-u3150-r-fr.png" crc="519625049" ref="news"/>
+    <file name="fighter2_profile_photo03s.jpg" crc="3965496376" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo03s-u3152-r-fr.png" crc="3919646993" ref="news"/>
+    <file name="fighter2_profile_photo04s.jpg" crc="3765437275" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo04s-u3151-r-fr.png" crc="255883871" ref="news"/>
+    <file name="fighter2_profile_photo01b.jpg" crc="4114079757" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo02b.jpg" crc="375519162" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo03b.jpg" crc="3866280623" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="fighter2_profile_photo04b.jpg" crc="3885994527" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="sc_fb-u28362.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r2.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u28502.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r2.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u28592.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r2.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u28812.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r2.png" crc="4264149775" ref="news"/>
+    <file name="sc_fb-u31302.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r2.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u31332.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r2.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u31362.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r2.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u31392.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r2.png" crc="4264149775" ref="news"/>
+    <file name="fighter1_profile_photo01s-u2894-fr.jpg" crc="369647887" ref="news"/>
+    <file name="fighter1_profile_photo01s-u2894-r-fr2.png" crc="4237548466" ref="news"/>
+    <file name="fighter1_profile_photo02s-u2895-fr.jpg" crc="317122033" ref="news"/>
+    <file name="fighter1_profile_photo02s-u2895-r-fr2.png" crc="4096550359" ref="news"/>
+    <file name="fighter1_profile_photo03s-u2899-fr.jpg" crc="472206324" ref="news"/>
+    <file name="fighter1_profile_photo03s-u2899-r-fr2.png" crc="12178204" ref="news"/>
+    <file name="fighter1_profile_photo04s-u2901-fr.jpg" crc="3866134156" ref="news"/>
+    <file name="fighter1_profile_photo04s-u2901-r-fr2.png" crc="3925722986" ref="news"/>
+    <file name="fighter1_profile-u2818-fr.jpg" crc="198336023" ref="news"/>
+    <file name="sc_fb-u28363.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r3.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u28503.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r3.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u28593.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r3.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u28813.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r3.png" crc="4264149775" ref="news"/>
+    <file name="sc_fb-u31303.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r3.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u31333.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r3.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u31363.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r3.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u31393.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r3.png" crc="4264149775" ref="news"/>
+    <file name="fighter2_profile-u3115-fr.jpg" crc="450272403" ref="news"/>
+    <file name="fighter2_profile_photo01s-u3149-fr.jpg" crc="3812618762" ref="news"/>
+    <file name="fighter2_profile_photo01s-u3149-r-fr2.png" crc="4090460078" ref="news"/>
+    <file name="fighter2_profile_photo02s-u3150-fr.jpg" crc="4089085751" ref="news"/>
+    <file name="fighter2_profile_photo02s-u3150-r-fr2.png" crc="419260211" ref="news"/>
+    <file name="fighter2_profile_photo03s-u3152-fr.jpg" crc="3963139512" ref="news"/>
+    <file name="fighter2_profile_photo03s-u3152-r-fr2.png" crc="3782578734" ref="news"/>
+    <file name="fighter2_profile_photo04s-u3151-fr.jpg" crc="445580653" ref="news"/>
+    <file name="fighter2_profile_photo04s-u3151-r-fr2.png" crc="416321149" ref="news"/>
+    <file name="fighter1_profile_photo01s-u2894-fr2.jpg" crc="4101783832" ref="news"/>
+    <file name="fighter1_profile_photo01s-u2894-r-fr3.png" crc="282248039" ref="news"/>
+    <file name="fighter1_profile_photo02s-u2895-fr2.jpg" crc="315241413" ref="news"/>
+    <file name="fighter1_profile_photo02s-u2895-r-fr3.png" crc="350485470" ref="news"/>
+    <file name="fighter1_profile_photo03s-u2899-fr2.jpg" crc="489443496" ref="news"/>
+    <file name="fighter1_profile_photo03s-u2899-r-fr3.png" crc="181227684" ref="news"/>
+    <file name="fighter1_profile_photo04s-u2901-fr2.jpg" crc="3819448360" ref="news"/>
+    <file name="fighter1_profile_photo04s-u2901-r-fr3.png" crc="280070942" ref="news"/>
+    <file name="fighter1_profile_photo01b-u2904-fr.jpg" crc="3843953188" ref="news"/>
+    <file name="fighter1_profile_photo02b-u2903-fr.jpg" crc="332280928" ref="news"/>
+    <file name="fighter1_profile_photo03b-u2907-fr.jpg" crc="4229634121" ref="news"/>
+    <file name="fighter1_profile_photo04b-u2908-fr.jpg" crc="304242101" ref="news"/>
+    <file name="sc_fb-u28364.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r4.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u28504.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r4.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u28594.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r4.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u28814.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r4.png" crc="4264149775" ref="news"/>
+    <file name="sc_fb-u31304.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r4.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u31334.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r4.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u31364.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r4.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u31394.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r4.png" crc="4264149775" ref="news"/>
+    <file name="fighter2_profile_photo01s-u3149-fr2.jpg" crc="287093475" ref="news"/>
+    <file name="fighter2_profile_photo01s-u3149-r-fr3.png" crc="50421412" ref="news"/>
+    <file name="fighter2_profile_photo02s-u3150-fr2.jpg" crc="335460142" ref="news"/>
+    <file name="fighter2_profile_photo02s-u3150-r-fr3.png" crc="24485934" ref="news"/>
+    <file name="fighter2_profile_photo03s-u3152-fr2.jpg" crc="3965515624" ref="news"/>
+    <file name="fighter2_profile_photo03s-u3152-r-fr3.png" crc="345122063" ref="news"/>
+    <file name="fighter2_profile_photo04s-u3151-fr2.jpg" crc="4012023109" ref="news"/>
+    <file name="fighter2_profile_photo04s-u3151-r-fr3.png" crc="4115726897" ref="news"/>
+    <file name="fighter2_profile_photo01b-u3154-fr.jpg" crc="3786015873" ref="news"/>
+    <file name="fighter2_profile_photo02b-u3157-fr.jpg" crc="4148376295" ref="news"/>
+    <file name="fighter2_profile_photo03b-u3156-fr.jpg" crc="323395764" ref="news"/>
+    <file name="fighter2_profile_photo04b-u3155-fr.jpg" crc="528666472" ref="news"/>
+    <file name="fighter1_profile_photo01s-u2894-fr3.jpg" crc="3966476290" ref="news"/>
+    <file name="fighter1_profile_photo01s-u2894-r-fr4.png" crc="4195254283" ref="news"/>
+    <file name="fighter1_profile_photo02s-u2895-fr3.jpg" crc="122961415" ref="news"/>
+    <file name="fighter1_profile_photo02s-u2895-r-fr4.png" crc="3768025924" ref="news"/>
+    <file name="fighter1_profile_photo03s-u2899-fr3.jpg" crc="3904210272" ref="news"/>
+    <file name="fighter1_profile_photo03s-u2899-r-fr4.png" crc="3952681250" ref="news"/>
+    <file name="fighter1_profile_photo04s-u2901-fr3.jpg" crc="4160837761" ref="news"/>
+    <file name="fighter1_profile_photo04s-u2901-r-fr4.png" crc="97055961" ref="news"/>
+    <file name="fighter1_profile_photo01b-u2904-fr2.jpg" crc="3943115165" ref="news"/>
+    <file name="fighter1_profile_photo02b-u2903-fr2.jpg" crc="255282326" ref="news"/>
+    <file name="fighter1_profile_photo03b-u2907-fr2.jpg" crc="3857358213" ref="news"/>
+    <file name="fighter1_profile_photo04b-u2908-fr2.jpg" crc="441781328" ref="news"/>
+    <file name="sc_fb-u28365.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r5.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u28505.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r5.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u28595.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r5.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u28815.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r5.png" crc="4264149775" ref="news"/>
+    <file name="sc_fb-u31305.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r5.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u31335.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r5.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u31365.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r5.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u31395.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r5.png" crc="4264149775" ref="news"/>
+    <file name="fighter2_profile_photo01s-u3149-fr3.jpg" crc="4037627338" ref="news"/>
+    <file name="fighter2_profile_photo01s-u3149-r-fr4.png" crc="229244865" ref="news"/>
+    <file name="fighter2_profile_photo02s-u3150-fr3.jpg" crc="41772137" ref="news"/>
+    <file name="fighter2_profile_photo02s-u3150-r-fr4.png" crc="67947246" ref="news"/>
+    <file name="fighter2_profile_photo03s-u3152-fr3.jpg" crc="3798701198" ref="news"/>
+    <file name="fighter2_profile_photo03s-u3152-r-fr4.png" crc="312688289" ref="news"/>
+    <file name="fighter2_profile_photo04s-u3151-fr3.jpg" crc="407195011" ref="news"/>
+    <file name="fighter2_profile_photo04s-u3151-r-fr4.png" crc="3879491456" ref="news"/>
+    <file name="fighter2_profile_photo01b-u3154-fr2.jpg" crc="235802796" ref="news"/>
+    <file name="fighter2_profile_photo02b-u3157-fr2.jpg" crc="113086159" ref="news"/>
+    <file name="fighter2_profile_photo03b-u3156-fr2.jpg" crc="455652444" ref="news"/>
+    <file name="fighter2_profile_photo04b-u3155-fr2.jpg" crc="3879804687" ref="news"/>
+    <file name="fighter1_profile_photo01b-u2904-fr3.jpg" crc="524936617" ref="news"/>
+    <file name="fighter1_profile_photo02b-u2903-fr3.jpg" crc="469618378" ref="news"/>
+    <file name="fighter1_profile_photo03b-u2907-fr3.jpg" crc="185292947" ref="news"/>
+    <file name="fighter1_profile_photo04b-u2908-fr3.jpg" crc="372281572" ref="news"/>
+    <file name="sc_fb-u28366.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r6.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u28506.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r6.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u28596.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r6.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u28816.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r6.png" crc="4264149775" ref="news"/>
+    <file name="sc_fb-u31306.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r6.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u31336.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r6.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u31366.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r6.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u31396.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r6.png" crc="4264149775" ref="news"/>
+    <file name="fighter2_profile_photo01b-u3154-fr3.jpg" crc="4023963629" ref="news"/>
+    <file name="fighter2_profile_photo02b-u3157-fr3.jpg" crc="4123649521" ref="news"/>
+    <file name="fighter2_profile_photo03b-u3156-fr3.jpg" crc="164905806" ref="news"/>
+    <file name="fighter2_profile_photo04b-u3155-fr3.jpg" crc="381956963" ref="news"/>
+    <file name="sc_fb-u28367.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u2836-r7.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u28507.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u2850-r7.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u28597.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u2859-r7.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u28817.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u2881-r7.png" crc="4264149775" ref="news"/>
+    <file name="sc_fb-u31307.png" crc="281907797" ref="news"/>
+    <file name="sc_fb-u3130-r7.png" crc="4005682420" ref="news"/>
+    <file name="sc_tw-u31337.png" crc="4058445518" ref="news"/>
+    <file name="sc_tw-u3133-r7.png" crc="4168074497" ref="news"/>
+    <file name="sc_insta-u31367.png" crc="307996351" ref="news"/>
+    <file name="sc_insta-u3136-r7.png" crc="293592405" ref="news"/>
+    <file name="sc_yt-u31397.png" crc="144403912" ref="news"/>
+    <file name="sc_yt-u3139-r7.png" crc="4264149775" ref="news"/>
+    <file name="esports recruitment.png" crc="375070377" ref="community">
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+    </file>
+    <file name="gaming recruitment.png" crc="368864435" ref="community">
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+    </file>
+    <file name="zodiacs entertainement.png" crc="416088318" ref="community">
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="community" alt=""/>
+    </file>
+    <file name="join now gaming-u57619.png" crc="3782971598" ref="community"/>
+    <file name="join now gaming-u57619-r.png" crc="4180008058" ref="community"/>
+    <file name="entertainment be part-u57650.png" crc="173968399" ref="community"/>
+    <file name="entertainment be part-u57650-r.png" crc="249373698" ref="community"/>
+    <file name="tryout now esports-u62753.png" crc="273499936" ref="community"/>
+    <file name="tryout now esports-u62753-r.png" crc="4026768741" ref="community"/>
+    <file name="join now gaming-u576192.png" crc="20257902" ref="community"/>
+    <file name="join now gaming-u57619-r2.png" crc="4154044128" ref="community"/>
+    <file name="entertainment be part-u576502.png" crc="4050748787" ref="community"/>
+    <file name="entertainment be part-u57650-r2.png" crc="4171712084" ref="community"/>
+    <file name="tryout now esports-u627532.png" crc="4236668970" ref="community"/>
+    <file name="tryout now esports-u62753-r2.png" crc="468154594" ref="community"/>
+    <file name="join now gaming-u576193.png" crc="3774618610" ref="community"/>
+    <file name="join now gaming-u57619-r3.png" crc="3846715410" ref="community"/>
+    <file name="entertainment be part-u576503.png" crc="430214472" ref="community"/>
+    <file name="entertainment be part-u57650-r3.png" crc="4215099264" ref="community"/>
+    <file name="tryout now esports-u627533.png" crc="4088263725" ref="community"/>
+    <file name="tryout now esports-u62753-r3.png" crc="237402026" ref="community"/>
+    <file name="join now gaming-u576194.png" crc="4063018104" ref="community"/>
+    <file name="join now gaming-u57619-r4.png" crc="4215860974" ref="community"/>
+    <file name="zodiacs entertainement-u57649-fr.png" crc="173484200" ref="community"/>
+    <file name="entertainment be part-u576504.png" crc="178675160" ref="community"/>
+    <file name="entertainment be part-u57650-r4.png" crc="3865835097" ref="community"/>
+    <file name="tryout now esports-u627534.png" crc="4151675517" ref="community"/>
+    <file name="tryout now esports-u62753-r4.png" crc="294099305" ref="community"/>
+    <file name="join now gaming-u576195.png" crc="20257902" ref="community"/>
+    <file name="join now gaming-u57619-r5.png" crc="4154044128" ref="community"/>
+    <file name="entertainment be part-u576505.png" crc="4050748787" ref="community"/>
+    <file name="entertainment be part-u57650-r5.png" crc="4171712084" ref="community"/>
+    <file name="tryout now esports-u627535.png" crc="4236668970" ref="community"/>
+    <file name="tryout now esports-u62753-r5.png" crc="468154594" ref="community"/>
+    <file name="join now gaming-u576196.png" crc="20257902" ref="community"/>
+    <file name="join now gaming-u57619-r6.png" crc="4154044128" ref="community"/>
+    <file name="entertainment be part-u576506.png" crc="4050748787" ref="community"/>
+    <file name="entertainment be part-u57650-r6.png" crc="4171712084" ref="community"/>
+    <file name="tryout now esports-u627536.png" crc="4236668970" ref="community"/>
+    <file name="tryout now esports-u62753-r6.png" crc="468154594" ref="community"/>
+    <file name="join now gaming-u576197.png" crc="20257902" ref="community"/>
+    <file name="join now gaming-u57619-r7.png" crc="4154044128" ref="community"/>
+    <file name="entertainment be part-u576507.png" crc="4050748787" ref="community"/>
+    <file name="entertainment be part-u57650-r7.png" crc="4171712084" ref="community"/>
+    <file name="tryout now esports-u627537.png" crc="4236668970" ref="community"/>
+    <file name="tryout now esports-u62753-r7.png" crc="468154594" ref="community"/>
+    <file name="sc_insta-u3291.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u3302.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u3305.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u3308.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r.png" crc="145354708" ref="contacts"/>
+    <file name="sc_insta-u32912.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r2.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u33022.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r2.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u33052.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r2.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u33082.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r2.png" crc="145354708" ref="contacts"/>
+    <file name="sc_insta-u32913.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r3.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u33023.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r3.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u33053.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r3.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u33083.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r3.png" crc="145354708" ref="contacts"/>
+    <file name="sc_insta-u32914.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r4.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u33024.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r4.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u33054.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r4.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u33084.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r4.png" crc="145354708" ref="contacts"/>
+    <file name="sc_insta-u32915.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r5.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u33025.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r5.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u33055.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r5.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u33085.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r5.png" crc="145354708" ref="contacts"/>
+    <file name="sc_insta-u32916.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r6.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u33026.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r6.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u33056.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r6.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u33086.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r6.png" crc="145354708" ref="contacts"/>
+    <file name="sc_insta-u32917.png" crc="198355329" ref="contacts"/>
+    <file name="sc_insta-u3291-r7.png" crc="151886097" ref="contacts"/>
+    <file name="sc_tw-u33027.png" crc="338675579" ref="contacts"/>
+    <file name="sc_tw-u3302-r7.png" crc="475727336" ref="contacts"/>
+    <file name="sc_fb-u33057.png" crc="3891648864" ref="contacts"/>
+    <file name="sc_fb-u3305-r7.png" crc="315215977" ref="contacts"/>
+    <file name="sc_yt-u33087.png" crc="375461891" ref="contacts"/>
+    <file name="sc_yt-u3308-r7.png" crc="145354708" ref="contacts"/>
+    <file name="multiplayer option.png" crc="411657956" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="mp 1.png" crc="166177659" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="instagram.png" crc="4259863575" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="facebook.png" crc="4063024320" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="youtube.png" crc="4146770359" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="multiplayer.png" crc="3885271110" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="br other.png" crc="78596296" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="discord.png" crc="256413282" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="tiktok.png" crc="3995978209" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="group-crop-u65191.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u63827.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u64793.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r.png" crc="3789305573" ref="casual-player-option"/>
+    <file name="group-crop-u651912.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u638272.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r2.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u647932.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r2.png" crc="3789305573" ref="casual-player-option"/>
+    <file name="group-crop-u651913.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u638273.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r3.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u647933.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r3.png" crc="3789305573" ref="casual-player-option"/>
+    <file name="group-crop-u651914.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u638274.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r4.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u647934.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r4.png" crc="3789305573" ref="casual-player-option"/>
+    <file name="group-crop-u651915.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u638275.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r5.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u647935.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r5.png" crc="3789305573" ref="casual-player-option"/>
+    <file name="group-crop-u651916.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u638276.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r6.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u647936.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r6.png" crc="3789305573" ref="casual-player-option"/>
+    <file name="group-crop-u651917.png" crc="4031061479" seo="true" ref="casual-player-option">
+      <caption webpage="casual-player-option" alt=""/>
+    </file>
+    <file name="join now for br-u638277.png" crc="488539811" ref="casual-player-option"/>
+    <file name="join now for br-u63827-r7.png" crc="4145915095" ref="casual-player-option"/>
+    <file name="join now new-u647937.png" crc="4058811804" ref="casual-player-option"/>
+    <file name="join now new-u64793-r7.png" crc="3789305573" ref="casual-player-option"/>
+  </folder>
+  <file name="index.html" crc="3903005680" seo="true" mt="1677201098438" redirect="true"/>
+  <file name="information.html" crc="434526952" seo="true" mt="1677201098438" redirect="true"/>
+  <file name="news.html" crc="86680632" seo="true" mt="1677201098438" redirect="true"/>
+  <file name="community.html" crc="369181890" seo="true" mt="1677201098438" redirect="true"/>
+  <file name="contacts.html" crc="412996274" seo="true" mt="1677201098438" redirect="true"/>
+  <file name="casual-player-option.html" crc="4203266891" seo="true" mt="1677201098438" redirect="true"/>
+</manifest>
